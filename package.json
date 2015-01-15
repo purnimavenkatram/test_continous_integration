@@ -1,0 +1,6 @@
+{
+  "name": "test_continous_integration",
+  "description": "app to test continous integration",
+  "version": "0.0.1",
+  "private": true
+}
